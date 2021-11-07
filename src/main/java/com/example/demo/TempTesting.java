@@ -9,7 +9,7 @@ interface DefaultMethodInterface
 {
 	default void sayHello()
 	{
-		System.out.println("Hello");
+		System.out.println("Hello there");
 	}
 }
 @FunctionalInterface
